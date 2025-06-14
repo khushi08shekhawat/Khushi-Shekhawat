@@ -1,6 +1,6 @@
 # Khushi-Shekhawat
 <h1 align="center">Hi 👋, I'm Khushi Shekhawat</h1>
-<h3 align="center">Final Year B.Tech (Computer Science) Student | Machine Learning & Data Science Enthusiast | Canva Designer</h3>
+<h3 align="center"> 3rd Year B.Tech (Computer Science) Student | Machine Learning & Data Science Enthusiast | Canva Designer</h3>
 
 ---
 
@@ -15,7 +15,7 @@ I believe in continuous learning, building practical solutions, and contributing
 ### 🎓 Academic Background
 
 - 🏫 **Bachelor of Technology (B.Tech) in Computer Science**
-- 🏢 University: [Your College Name]
+- 🏢 University: [Amity University Rajasthan]
 - 📚 Relevant Coursework: Data Structures, Machine Learning, Deep Learning, DBMS, Web Technologies, Python Programming, Software Engineering
 - 🧠 Interests: Artificial Intelligence, Computer Vision, Predictive Modeling, UI/UX Design
 
