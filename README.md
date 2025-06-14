@@ -15,7 +15,7 @@ I believe in continuous learning, building practical solutions, and contributing
 ### 🎓 Academic Background
 
 - 🏫 **Bachelor of Technology (B.Tech) in Computer Science**
-- 🏢 University: [Amity University Rajasthan]
+- 🏢 University:Amity University Rajasthan
 - 📚 Relevant Coursework: Data Structures, Machine Learning, Deep Learning, DBMS, Web Technologies, Python Programming, Software Engineering
 - 🧠 Interests: Artificial Intelligence, Computer Vision, Predictive Modeling, UI/UX Design
 
@@ -40,7 +40,7 @@ I believe in continuous learning, building practical solutions, and contributing
 |---------------|-------------|------------|------------|
 | 🧠 **Object Detection using TensorFlow** | Built a real-time object detection system using a custom dataset from Kaggle. Implemented using TensorFlow and OpenCV with bounding box annotations. | Python, TensorFlow, OpenCV, Google Colab | [View Repo](#) |
 | 🔡 **Text Classification using TensorFlow** | Developed a supervised learning model for text classification tasks using TensorFlow and NLP preprocessing techniques on real-world data. | Python, TensorFlow, NLP, Pandas | [View Repo](#) |
-| 🐾 **Pet Face Classification (Dog vs Cat)** | Trained a CNN model to classify pet faces using Kaggle’s custom image dataset. Handled preprocessing, augmentation, and accuracy evaluation. | Python, TensorFlow, Keras, Google Colab | [View Repo](#) |
+| 🐾 **Pet Face Classification ** | Trained a CNN model to classify pet faces using Kaggle’s custom image dataset. Handled preprocessing, augmentation, and accuracy evaluation. | Python, TensorFlow, Keras, Google Colab | [View Repo](#) |
 | 🗽 **Landmark Detection Model** | Created a deep learning model that detects landmarks (like monuments and structures) using annotated image data from Kaggle. | Python, TensorFlow, LabelImg, Google Colab | [View Repo](#) |
 ---
 ### 🏆 Certifications & Workshops
