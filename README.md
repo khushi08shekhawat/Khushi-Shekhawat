@@ -39,7 +39,7 @@ I believe in continuous learning, building practical solutions, and contributing
 |---------------|-------------|------------|------------|
 | 🧠 **Object Detection using TensorFlow** | Built a real-time object detection system using a custom dataset from Kaggle. Implemented using TensorFlow and OpenCV with bounding box annotations. | Python, TensorFlow, OpenCV, Google Colab | [View Repo](#) |
 | 🔡 **Text Classification using TensorFlow** | Developed a supervised learning model for text classification tasks using TensorFlow and NLP preprocessing techniques on real-world data. | Python, TensorFlow, NLP, Pandas | [View Repo](#) |
-| 🐾 **Pet Face Classification ** | Trained a CNN model to classify pet faces using Kaggle’s custom image dataset. Handled preprocessing, augmentation, and accuracy evaluation. | Python, TensorFlow, Keras, Google Colab | [View Repo](#) |
+| 🐾 **Pet Face Classification** | Trained a CNN model to classify pet faces using Kaggle’s custom image dataset. Handled preprocessing, augmentation, and accuracy evaluation. | Python, TensorFlow, Keras, Google Colab | [View Repo](#) |
 | 🗽 **Landmark Detection Model** | Created a deep learning model that detects landmarks (like monuments and structures) using annotated image data from Kaggle. | Python, TensorFlow, LabelImg, Google Colab | [View Repo](#) |
 ---
 ### 🏆 Certifications & Workshops
@@ -81,8 +81,8 @@ I believe in continuous learning, building practical solutions, and contributing
 
 ### 📫 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/khushishekhawat)  
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:khushishekhawat@email.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushi-shekhawat-45616331b/)  
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:khushishekhawat0811@gmail.com)
 
 ---
 
