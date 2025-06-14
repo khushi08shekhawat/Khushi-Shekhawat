@@ -1,4 +1,3 @@
-#introduction 
 <h1 align="center">Hi 👋, I'm Khushi Shekhawat</h1>
 <h3 align="center"> 3rd Year B.Tech (Computer Science) Student | Machine Learning & Data Science Enthusiast | Canva Designer</h3>
 
